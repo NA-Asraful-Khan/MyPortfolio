@@ -1,14 +1,14 @@
 import React from 'react';
-import Aboutme from './Aboutme';
 import Banner from './Banner';
-import Header from './Header';
+import ContactUs from './ContactUs';
+import MyPorfolio from './MyPorfolio';
 
 const Home = () => {
     return (
         <div>
-            <Header></Header>
             <Banner></Banner>
-            <Aboutme></Aboutme>
+            <MyPorfolio></MyPorfolio>
+            <ContactUs></ContactUs>
         </div>
     );
 };
