@@ -32,6 +32,7 @@ const MyPorfolio = () => {
                         <h3 className='text-xl'>Technology: React,React Router,Express JS, Node js, MongoDB, Firebase Authentication</h3>
                         <p>This is a Inventory Management Website. Here a user can check his stock of the product. Update the quantity of the product and also Decrease the Quantity of the product if any product delivered. User can also delete the product if any product isout of stock.</p>
                         <div class="card-actions">
+                            <Link className='btn btn-primary' to="/Portfolio/AutoMobile-Inventories">Details</Link>
                             <a className='btn btn-primary' href="https://inventory-7521f.web.app/" target="_blank">Live Link</a>
                         </div>
                     </div>
@@ -45,6 +46,7 @@ const MyPorfolio = () => {
                         <h3 className='text-xl'>Technology: React,React Router,Firebase Authentication</h3>
                         <p>This is a Authenticated Website where user can sign up, sign in with email and password. A user can also sign in/sign up with google account.Here is some protected route where a user cannot access if he/she is not logged in.</p>
                         <div class="card-actions">
+                            <Link className='btn btn-primary' to="/Portfolio/ANGELS-MAKEUP">Details</Link>
                             <a className='btn btn-primary' href="https://serviceing-6e26a.web.app/" target="_blank">Live Link</a>
                         </div>
                     </div>
@@ -59,6 +61,7 @@ const MyPorfolio = () => {
                         <h3 className='text-xl'>Technology: React,React Router,Firebase Authentication</h3>
                         <p className='mb-6'>I use React Routing. That was fun to use. I create 404 route for unavailable route. I use Custome Hooks for reuse the same type of work again. I use Rechart for dashboard</p>
                         <div class="card-actions">
+                            <Link className='btn btn-primary' to="/Portfolio/My-Photograpy">Details</Link>
                             <a className='btn btn-primary' href="https://photoprahy-routing.netlify.app/" target="_blank">Live Link</a>
                         </div>
                     </div>

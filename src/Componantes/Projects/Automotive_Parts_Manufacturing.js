@@ -18,11 +18,11 @@ const Automotive_Parts_Manufacturing = () => {
                     <p className='font-medium text-lg tracking-wider mb-4'><span className='font-bold'>Duration:</span> May-2022 to May-2022</p>
                     <p className='font-medium text-lg tracking-wider mb-4'><span className='font-bold'>About Project:</span> This is a website for a parts manufacturing company where a customer can place the order and pay the bill  dashboard where an admin can add product, delete product, make someone admin, canceling order etc.
                     </p>
-                    <p className='font-medium text-lg tracking-wider mb-4'><span className='font-bold'>Live Link</span> <a href="https://tool-e56ed.web.app/" className='text-red-700' target="_blank" rel="noopener noreferrer">AUTOMOTIVE PARTS MANUFACTURING</a></p>
+                    <p className='font-medium text-lg tracking-wider mb-4'><span className='font-bold'>Live Link :</span> <a href="https://tool-e56ed.web.app/" className='text-red-700' target="_blank" rel="noopener noreferrer">AUTOMOTIVE PARTS MANUFACTURING</a></p>
 
-                    <p className='font-medium text-lg tracking-wider mb-4'><span className='font-bold'>Github Client Side Link</span> <a href="https://github.com/NA-Asraful-Khan/Automotive-Client" className='text-red-700' target="_blank" rel="noopener noreferrer">AUTOMOTIVE PARTS MANUFACTURING</a></p>
+                    <p className='font-medium text-lg tracking-wider mb-4'><span className='font-bold'>Github Client Side Link :</span> <a href="https://github.com/NA-Asraful-Khan/Automotive-Client" className='text-red-700' target="_blank" rel="noopener noreferrer">AUTOMOTIVE PARTS MANUFACTURING</a></p>
 
-                    <p className='font-medium text-lg tracking-wider mb-4'><span className='font-bold'>Github Server Side Link</span> <a href="https://github.com/NA-Asraful-Khan/Automotive-Server" className='text-red-700' target="_blank" rel="noopener noreferrer">AUTOMOTIVE PARTS MANUFACTURING</a></p>
+                    <p className='font-medium text-lg tracking-wider mb-4'><span className='font-bold'>Github Server Side Link :</span> <a href="https://github.com/NA-Asraful-Khan/Automotive-Server" className='text-red-700' target="_blank" rel="noopener noreferrer">AUTOMOTIVE PARTS MANUFACTURING</a></p>
                 </div>
                 <div class="h-96 w-full  carousel carousel-vertical rounded-box">
                     <div class="carousel-item">
