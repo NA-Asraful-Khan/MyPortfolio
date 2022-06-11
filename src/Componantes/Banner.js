@@ -10,7 +10,7 @@ const Banner = () => {
                     <div>
                         <h1 class="text-5xl font-bold">Nur - A - Asraful Khan</h1>
                         <p class=" tracking-widest text-2xl py-6">I am a Junior Web Developer</p>
-                        <a className='btn btn-primary' href="../Image/Nur-A-Asraful-Khan.pdf" target="_blank" download>My Resume</a>
+                        <a className='btn btn-primary' href="https://github.com/NA-Asraful-Khan/MyPortfolio/raw/main/src/Image/Nur-A-Asraful-Khan.pdf" target="_blank">My Resume</a>
                     </div>
                 </div>
             </div>

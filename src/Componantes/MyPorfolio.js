@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 import image1 from '../Image/Port1.png'
 import image2 from '../Image/Port2.png'
 import image3 from '../Image/Port3.png'
@@ -7,7 +8,6 @@ import image4 from '../Image/Port4.png'
 const MyPorfolio = () => {
     return (
         <div className="bg-white p-8">
-            <h2 className='font-bold py-8 text-4xl text-center'>My Portfolio</h2>
             <div className='container mx-auto grid grid-cols-1 md:grid-cols-2 gap-7 place-items-center'>
                 <div class="card bg-white-grey shadow-xl ">
                     <figure class="px-10 pt-10">
@@ -18,6 +18,7 @@ const MyPorfolio = () => {
                         <h3 className='text-xl'>Technology: React,React Router,Express JS, Node js, MongoDB, Firebase Authentication</h3>
                         <p>This is a website for a parts manufacturing company where a customer can place the order and pay the bill via credit card and also drop a review. And there is also admin dashboard where an admin can add product, delete product, make someone admin, canceling order etc.</p>
                         <div class="card-actions">
+                            <Link className='btn btn-primary' to="/Portfolio/Automotive-Parts-Manufacturing">Details</Link>
                             <a className='btn btn-primary' href="https://tool-e56ed.web.app/" target="_blank">Live Link</a>
                         </div>
                     </div>
