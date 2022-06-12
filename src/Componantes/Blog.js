@@ -1,9 +1,10 @@
 import React from 'react';
+import coming from '../Image/Coming_Soon.png'
 
 const Blog = () => {
     return (
         <div>
-            <h2>This is Blog</h2>
+            <img className='w-full' src={coming} alt="" />
         </div>
     );
 };

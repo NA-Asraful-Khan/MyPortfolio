@@ -21,18 +21,18 @@ const Angels_Meakup = () => {
 
                     <p className='font-medium text-lg tracking-wider mb-4'><span className='font-bold'>Github Code Link :</span> <a href="https://github.com/NA-Asraful-Khan/ANGELS-MAKEUP" className='text-red-700' target="_blank" rel="noopener noreferrer">ANGELS MAKEUP</a></p>
                 </div>
-                <div class="h-96 w-full  carousel carousel-vertical rounded-box">
-                    <div class="carousel-item">
+                <div className="h-96 w-full  carousel carousel-vertical rounded-box">
+                    <div className="carousel-item">
                         <img src={image1} alt="" />
                     </div>
-                    <div class="carousel-item">
+                    <div className="carousel-item">
                         <img src={image2} alt="" />
                     </div>
-                    <div class="carousel-item">
+                    <div className="carousel-item">
                         <img src={image3} alt="" />
                     </div>
 
-                    <div class="carousel-item">
+                    <div className="carousel-item">
                         <img src={image4} alt="" />
                     </div>
                 </div>

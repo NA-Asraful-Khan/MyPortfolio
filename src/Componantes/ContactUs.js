@@ -23,7 +23,7 @@ const ContactUs = () => {
             setResult(true);
     }
     return (
-        <div className='bg-white-grey'>
+        <div className='bg-white py-8'>
             <h2 className='font-bold py-8 text-4xl text-center'>Contact Us</h2>
             <div className='container mx-auto'>
                 <form ref={form} className='w-2/3' onSubmit={formHandle}>
